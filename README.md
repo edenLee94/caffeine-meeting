@@ -6,7 +6,7 @@
 #### 프로젝트 주제 선정 이유
 
 - 고민되는 이유 : 네이버 지도에서 방문자 리뷰 데이터를 가져와서 봤을때  기존 text data에 비해 unstructed하고 diverse됐기 때문에
-- 
+
  ⇒ 리뷰 데이터를 사용한 논문[JOINT TRAINING OF RATINGS AND REVIEWS WITH
 RECURRENT RECOMMENDER NETWORKS](https://openreview.net/pdf?id=Bkv9FyHYx)을 통해서 내용 학습이 필요할 것 같다.
 
