@@ -7,8 +7,10 @@
 
 - 고민되는 이유 : 네이버 지도에서 방문자 리뷰 데이터를 가져와서 봤을때  기존 text data에 비해 unstructed하고 diverse됐기 때문에
 
+- 우리가 클로링한 데이터양이 딥러닝이 필요한 수준이 아닐 수 있어서 고민 중이다.
+
  ⇒ 리뷰 데이터를 사용한 논문[JOINT TRAINING OF RATINGS AND REVIEWS WITH
-RECURRENT RECOMMENDER NETWORKS](https://openreview.net/pdf?id=Bkv9FyHYx)을 통해서 내용 학습이 필요할 것 같다.
+RECURRENT RECOMMENDER NETWORKS](https://openreview.net/pdf?id=Bkv9FyHYx)을 통해서 내용 학습이 필요할 것 같다.[요약문](https://github.com/edenLee94/caffeine-meeting/blob/main/review_rating/Readme.md)
 
 User는 문장(내가 원하는 카페에서 얻을 이득)을 넣으면,
 카페의 기존에 작성된 네이버 방문자 리뷰를 통해서 유사도를 비교해서 Top5를 추천해주는 형식으로 진행한다. 
