@@ -1,3 +1,5 @@
+### JOINT TRAINING OF RATINGS AND REVIEWS WITH RECURRENT RECOMMENDER NETWORKS 논문 리뷰
+
 IMDB 데이터셋을 활용하여 모델 성능에 대한 실험 진행!
 
 ## 논문의 ABSTRACT
@@ -7,8 +9,7 @@ Accurate modeling of ratings and text reviews is at the core of successful recom
 combines ratings, reviews, and temporal patterns(시계열 데이터) to learn highly accurate recommendations.
 We co-train for prediction on both numerical ratings and natural language reviews!
 
-> 평점과 리뷰 데이터(text)를 모두 활용하여 추천시스템을 만들며, Recurrent 모델 구조를 활용하여 uesr, item의 다양한 component를 얻으려고 한다.
-> 
+> 평점과 리뷰 데이터(text)를 모두 활용하여 추천시스템을 만들며, Recurrent 모델 구조를 활용하여 uesr, item의 다양한 component를 얻으려고 한다. 
 
 #### 논문의 Introduction
 
