@@ -18,8 +18,6 @@ RRN은 RNN구조로 user, item 변화 등을 파악할 수 있으나, 리뷰의 
 
 추천시스템에서 리뷰 데이터를 많이 사용하기 어려운 이유는 기존 텍스트 데이터에 비해 unstructed하고 diverse됐기 때문이다.
 
-![A23BDB4C-7677-465C-A51E-BE86A6CB814F_4_5005_c.jpeg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ee307f87-91a9-4202-92ff-13086ce51751/A23BDB4C-7677-465C-A51E-BE86A6CB814F_4_5005_c.jpeg)
-
 - joint generative model : 리뷰 데이터와 평점을 결합한 joint 모델 구조를 제안한다.
 - nonlinear nonparametric review model : uesr와 movie의 state dynamics를 학습하면서 시간 변화에 따른 리뷰의 변화를 파악할 수 있다.
 - 실험 : 시간 흐름과 함께 평점과 리뷰 데이터를 함께 모델링해서 IMDB 데이터셋에 대해 좋은 성능을 얻었다.
