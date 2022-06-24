@@ -1,5 +1,5 @@
 ## caffeine-meeting
-
+![initial](https://user-images.githubusercontent.com/47210353/175638330-1f12e620-77fd-4382-a82b-efd8062d672f.png)
 ### 프로젝트 아이디어
 내 상황에 맞는 카페 추천해주는 시스템
 
