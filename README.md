@@ -22,7 +22,7 @@
 
 원하는 분위기, 오늘 카페에 가서 무엇을 하고싶은지 구글폼을 통해서 적어주시면 분석 후 답변해드립니다.
 
-설문지() 이용 : [Find your favorite cafe 설문지](https://docs.google.com/forms/d/1NpMqjm_irWul-KTW8gLywuWKiSaeBKBMwZFVgc_Ikec/edit?hl=ko)
+설문지(구글폼) 이용 : [Find your favorite cafe 설문지](https://docs.google.com/forms/d/1NpMqjm_irWul-KTW8gLywuWKiSaeBKBMwZFVgc_Ikec/edit?hl=ko)
 
  ⇒ (IMDB dataset)리뷰 데이터, 평점을 사용한 논문[JOINT TRAINING OF RATINGS AND REVIEWS WITH
 RECURRENT RECOMMENDER NETWORKS](https://openreview.net/pdf?id=Bkv9FyHYx)을 통해서 내용 학습이 필요할 것 같다.[요약문](https://github.com/edenLee94/caffeine-meeting/blob/main/review_rating/Readme.md)
