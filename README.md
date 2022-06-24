@@ -20,7 +20,8 @@
     
 `서비스 이용 방법`
 
-원하는 분위기, 오늘 카페에 가서 무엇을 하고싶은지 구글폼을 통해서 적어주시면 분석 후 답변해드립니다.https://docs.google.com/forms/d/1NpMqjm_irWul-KTW8gLywuWKiSaeBKBMwZFVgc_Ikec/edit?hl=ko
+원하는 분위기, 오늘 카페에 가서 무엇을 하고싶은지 구글폼을 통해서 적어주시면 분석 후 답변해드립니다.
+설문지() 이용 : https://docs.google.com/forms/d/1NpMqjm_irWul-KTW8gLywuWKiSaeBKBMwZFVgc_Ikec/edit?hl=ko
 
 [Find your favorite cafe](https://docs.google.com/forms/d/1NpMqjm_irWul-KTW8gLywuWKiSaeBKBMwZFVgc_Ikec/edit?hl=ko)
 
