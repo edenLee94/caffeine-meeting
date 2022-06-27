@@ -36,4 +36,6 @@ User는 문장(내가 원하는 카페에서 얻을 이득)을 넣으면, 카페
 
 ---
 [TF-IDF을 이용한 카페 리뷰 유사도 분석을 통한 카페 추천 시스템 구현](https://github.com/edenLee94/caffeine-meeting/blob/main/cafe_sentence_similarity.ipynb)
+
+---
 [BERT를 이용한 카페 리뷰 유사도 분석을 통한 카페 추천 시스템 구현](https://github.com/edenLee94/caffeine-meeting/blob/main/cafedafe_Bert_base.ipynb)
