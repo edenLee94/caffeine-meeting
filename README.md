@@ -35,7 +35,7 @@ User는 문장(내가 원하는 카페에서 얻을 이득)을 넣으면, 카페
 그리고 기존에 있던 ‘합정역 카페’라고 검색을 하면, 망원, 상수, 홍대, 합정 결과가 모두 애매하게 나온다. -> 우리의 방향성을 그래서 ‘– –동(서교,합정,동교동)＇좀 더 명확하게 나눠서 진행할 예정이다. 
 
 ---
-[TF-IDF을 이용한 카페 리뷰 유사도 분석을 통한 카페 추천 시스템 구현](https://github.com/edenLee94/caffeine-meeting/blob/main/cafe_sentence_similarity.ipynb)
+#### TF-IDF을 이용한 카페 리뷰 유사도 분석을 통한 카페 추천 시스템 구현[구현 code](https://github.com/edenLee94/caffeine-meeting/blob/main/cafe_sentence_similarity.ipynb)
 
 ### CBF,content-based filtering(내용 기반 필터링)
 
@@ -43,7 +43,8 @@ User는 문장(내가 원하는 카페에서 얻을 이득)을 넣으면, 카페
 - 군집화
 - 딥러닝 기반 이미지 유사도 비교
 - TF-IDF
+
 다음 3개의 방법 중에서 키워드, 장르, 텍스트 등의 유사성 기반인 TF-IDF의 방법을 이용해서 텍스트(리뷰)에 대해서 진행할 예정이다. 그리고 자카드 유사도, 코사인 유사도, 유클리디안 유사도 중에서 코사인 유사도방법을 채택할 것입니다.
 
 ---
-[BERT를 이용한 카페 리뷰 유사도 분석을 통한 카페 추천 시스템 구현](https://github.com/edenLee94/caffeine-meeting/blob/main/cafedafe_Bert_base.ipynb)
+#### BERT를 이용한 카페 리뷰 유사도 분석을 통한 카페 추천 시스템 구현[구현 code](https://github.com/edenLee94/caffeine-meeting/blob/main/cafedafe_Bert_base.ipynb)
